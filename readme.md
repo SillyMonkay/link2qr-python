@@ -1,6 +1,7 @@
 To run this do
 cd C:\YourDirectory
 or pushd "D:\YourDirectory"
+then do python3 main.py
 
 A link example is https://google.com/q?=qrcode+generator
 

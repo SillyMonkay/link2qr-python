@@ -3,5 +3,5 @@ To use this you are required to
 2. Run "pip install qrcode" to install the dependencies
 
 to download this do
-1. "git clone https://github.com/SillyMonkay/link2qr-python.git"
-2. download from the releases
+"git clone https://github.com/SillyMonkay/link2qr-python.git"
+or download from the releases
